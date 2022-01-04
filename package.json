@@ -17,7 +17,7 @@
     "solver"
   ],
   "author": "helmetica <helmetica@yandex.ru>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/helmetica/rush-hour-solver/issues"
   },
