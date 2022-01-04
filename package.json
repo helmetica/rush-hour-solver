@@ -1,0 +1,31 @@
+{
+  "name": "rush-hour-solver",
+  "version": "1.0.0",
+  "description": "Solver for Unblock Me / Rush Hour style puzzle games in JavaScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist --presets es2015"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmetica/rush-hour-solver.git"
+  },
+  "keywords": [
+    "rushhour",
+    "unblockme",
+    "solver"
+  ],
+  "author": "helmetica <helmetica@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helmetica/rush-hour-solver/issues"
+  },
+  "homepage": "https://github.com/helmetica/rush-hour-solver#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
