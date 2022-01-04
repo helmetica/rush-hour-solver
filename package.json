@@ -1,6 +1,6 @@
 {
   "name": "rush-hour-solver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Solver for Unblock Me / Rush Hour style puzzle games in JavaScript.",
   "main": "dist/index.js",
   "scripts": {
