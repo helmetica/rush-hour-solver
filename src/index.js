@@ -100,9 +100,7 @@ class Game {
   }
 }
 
-function solve(options) {
-  const game = new Game(options);
-
+function solve(game) {
   // game board
   let targetIx;
   let nBlock = 0;
@@ -286,4 +284,4 @@ function solve(options) {
   }
 }
 
-export default { solve }
+export default { solve, Game }
