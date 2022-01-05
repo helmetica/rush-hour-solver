@@ -1,5 +1,6 @@
 # rush-hour-solver
-Solver for Unblock Me / Rush Hour style puzzle games in JavaScript.
+Solver for Unblock Me / Rush Hour style puzzle games in JavaScript.   
+Original script: https://gist.github.com/jackhftang/82a206fddcfc666934650aaf760457ee
 
 Install
 ======
