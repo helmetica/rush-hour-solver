@@ -12,7 +12,7 @@ Using
 ======
 Let's solve the following game:
 
-![Image of level](level.png)
+![Image of level](https://lh3.googleusercontent.com/hbr8W8ojioW5tWGQH6yogE2P-EivnZ-wszmsaeCiu13E0SoHg3cYO5J9nWZSJtA3TLSZTEnBdoavZVlgXayM=w1920-h880)
 
 ```javascript
 import rushHourSolver from 'rush-hour-solver';
