@@ -147,9 +147,7 @@ var Game = function () {
   return Game;
 }();
 
-function solve(options) {
-  var game = new Game(options);
-
+function solve(game) {
   // game board
   var targetIx = void 0;
   var nBlock = 0;
@@ -376,4 +374,4 @@ function solve(options) {
     }
 }
 
-exports.default = { solve: solve };
+exports.default = { solve: solve, Game: Game };
